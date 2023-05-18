@@ -57,3 +57,8 @@ body {
     margin: 0;
     padding: 2px;
 }
+
+#pr-challenge {
+    background: whitesmoke;
+    padding: 1em;
+}
