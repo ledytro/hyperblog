@@ -62,3 +62,15 @@ body {
     background: whitesmoke;
     padding: 1em;
 }
+
+#partners-names p {
+    background: #4b4376;
+    border-radius: 2px;
+    box-shadow: 0px 0px 10px 0px #747677;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    margin: 0px;
+    padding: 2px;
+    font-size: 12px;
+}
