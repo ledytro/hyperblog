@@ -1,9 +1,14 @@
 # Proyecto Git y GitHub - Hyperblog
+
 ## ¡Bienvenid@ a mi proyecto!
+
 ### ¿Quieres ir al GitHub Pages de mi repositorio?
-* [Puedes hacerlo dando clic aquí :paperclip:](https://ledytro.github.io/hyperblog/blogpost.html)
+
+[Puedes hacerlo dando clic aquí 📎](https://ledytro.github.io/hyperblog/blogpost.html)
 ___
-Este es el resultado de la práctica del [Curso Profesional de Git y GitHub :paperclip:](https://platzi.com/cursos/git-github/) de [Platzi :paperclip:](https://platzi.com/) dónde aprendí muchos conceptos como:
+
+Este es el resultado de la práctica del [Curso Profesional de Git y GitHub 📎](https://platzi.com/cursos/git-github/) de [Platzi 📎](https://platzi.com/) dónde aprendí muchos conceptos como:
+
 * Qué es un sistema de control de versiones o *SCV*.
 * Qué es Git.
 * Diferencias entre Git y GitHub.
