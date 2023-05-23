@@ -24,5 +24,6 @@ Este es el resultado de la práctica del [Curso Profesional de Git y GitHub 📎
 * Uso de GitHub.
 * Configuración de entorno de trabajo.
 * Creado por el increíble Platzi Team.
+* Incluye ejemplos en Windows, Linux y Mac.
 
 Este proyecto es público y puedes revisar todo su historial. También puedes darme tu feedback, lo recibiré con gusto 😁.
